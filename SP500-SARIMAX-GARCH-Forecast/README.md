@@ -39,6 +39,5 @@ The strategy is built on two mathematical pillars:
 └──  README.md                                # Project documentation
 
 
-```python
 
 ```
